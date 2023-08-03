@@ -1,0 +1,10 @@
+Hello World!
+
+Primer Homework
+
+Ejercicio 1 crear repositorio con Git Hub
+Ejercicio 2 crear carpeta con Git Bash. cd Desktop. cd RepositorioHenry. mkdir 'CarpetaHenry'
+Ejercicio 3 ingresar CarpetaHenry. abrir Git Bash. cd Desktop. cd RepositorioHenry. cd CarpetaHenry
+Ejercicio 4 crear primer primerArchivo.txt. Comando touch "primerArchivo.txt" dentro de carpeta CarpetaHenry. Code "primerArchivo" para editar con Visual Codde Estudio
+
+
